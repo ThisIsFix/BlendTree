@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BlendTree : MonoBehaviour
 {
-	public float smoothBlend = 0.1f;
+    public float smoothBlend = 0.1f;
     private Animator anim;
 
 	void Start()
