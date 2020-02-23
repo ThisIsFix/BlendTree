@@ -7,7 +7,7 @@ public class BlendTree : MonoBehaviour
     public float smoothBlend = 0.1f;
     private Animator anim;
 
-	void Start()
+    void Start()
     {
         anim = GetComponent<Animator>();
     }
